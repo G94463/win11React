@@ -100,3 +100,17 @@
     }
   }
 ]
+{
+  "name": "Blue Edge App",
+  "icon": "https://raw.githubusercontent.com/G94463/appli-blue-edge/main/icon.png",
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://g94463.github.io/appli-blue-edge",
+    "gallery": [
+      "https://raw.githubusercontent.com/G94463/appli-blue-edge/main/screenshot.png"
+    ],
+    "desc": "Mon application Blue Edge est une web app interactive hébergée sur GitHub Pages.",
+    "feat": "Web App\nReact\nGitHub Pages\nWin11React compatible"
+  }
+}
